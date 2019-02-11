@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setTitle("Nice");
         //GitHub에서 바꿨
+        //내가 원하는 추가작업
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }
